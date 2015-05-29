@@ -1,0 +1,116 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 95%;
+  width: 75%;
+  margin: 50px auto 0 auto;
+  background-color: white;
+}
+
+
+.kader  {
+  width: 90%;
+  height: 100%;
+  padding: 50px;
+  margin: auto;
+  background-color: white;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {margin-bottom: 1.3em;
+}
+
+ul li {
+  display: inline;
+  padding-bottom: 1em; 
+  margin-right: 2em;
+
+}
+
+
+.selected {
+  border-bottom: 4px solid black;
+
+}
+
+p {
+  
+  padding-top: 3em;
+  padding-bottom: 3em;
+  line-height: 1.2em;
+  width: 50%;
+  
+}
+
+h1  {
+  float: right;
+  font-size: 2.5em;
+  font-family: 'Tangerine', cursive;
+  margin-top: -5px;
+}
+
+h3  {
+  margin-left: 40%;
+  margin-top: 1.2em;
+}
+
+
+
+
+.foto1, .foto2, .foto3 {
+  display: none;
+  width: 400px;
+  float: right;
+  margin-right: -600px;
+  margin-top: -90px;
+  margin-bottom: 1.3em;
+}
+
+.selected {
+  display: inline;
+}
+
+input {
+  width: 58%;
+}
+
+button  {
+  margin-top: 1em;
+}
+
+.foto4  {
+  max-width: 100%;  
+  margin-top: 1.9em;
+  opacity: 0.8;
+  
+}
+
+
+.work, .inspiration  {
+  width: 50%;
+  margin-left: 25%;
+}
+
+h1:hover  {color: grey;}
+
+.foto5  {
+  width: 200%;
+}
+
+.foto6  {
+  width: 100%;  
+  margin-top: 1.9em;
+  opacity: 0.8;
+  
+}
+
+
+
+
